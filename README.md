@@ -1,26 +1,24 @@
 # Fitness-Tracker
 
-With this app, the user will be able to view create and track daily workouts, to log multiple exercises in a workout on a given day, to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, the user will be able to track distance traveled.
-
 <strong>Name</strong>
 
-This project takes my name (Janvier Mbilizi) as it is my personal portfolio that tells about me and my tech career.
+This project takes the name of (Fitness-Tracker) as it is a workout app.
 
 <strong>Description </strong>
 
-As a web developer, I want a deployed portfolio so that I can showcase my applications to potential employers and clients. It is in that spirit that my instructor gave me and other students a homework to design our personal website that will showcase our work.
+As a web developer, I want a deployed portfolio so that I can showcase my applications to potential employers and clients. It is in that spirit that my instructor gave me and other students a homework to design a fitness-tracker app. With this app, the user will be able to view create and track daily workouts, to log multiple exercises in a workout on a given day, to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, the user will be able to track distance traveled.
 
 <strong>Programs used</strong>
 
-I used HTML, CSS (in Video Studio Code) and Bootstrap, javascript, jquery, node, express nodemailer npm, Git/Github and heroku.
+I used HTML, CSS (in Video Studio Code) and Bootstrap, javascript, jquery, node, express mongodb, Git/Github and heroku.
 
 <strong>Installation </strong>
 
-This is only website and does not need installation. it is currently hosted in github and you can access it at https://janviermbilizi.github.io/Janvier_Mbilizi/
+This is only website and does not need installation. it is currently hosted in heroku and you can access it at https://fitness-traker.herokuapp.com/
 
 <strong>Usage</strong>
 
-The page is simple, clean, easy to use and undertand. The welcome page tells you about me. on the navigation bar you have Portfolio that showcase applications that have built. And Contact that gives you a form to fill out in case you want to request a contact.
+The page is simple, clean, easy to use and undertand. The welcome page provide you the last workout info, the botton to continue working out and to add a new workout. The dashboard above provide you you overall workout and exercises you have done in form of a chart.
 
 <strong>Support and Contribution</strong>
 
